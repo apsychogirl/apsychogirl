@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola pepulzz🦊
 
-<!--
-**apsychogirl/apsychogirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Megha Kumari aka Apsychogirl. I code occasionally and write [blogs](https://medium.com/@apsychogirl) about all the mishaps during the execution of that code. Here are some of my features :
 
-Here are some ideas to get you started:
+- Linux gal 🖥
+- Mostly on TryHackMe 🤓
+- Rants on the blog 😡
+- Tweets about Richard Feynman 🐦
+- Push commits into Mozilla 🤖
+- Plays Chess ♟
+- Marvel Fan 🦸‍♂️ 🦸‍♀️
+- Loves Standup Comedies 🙋‍♂️
+- An okayissh photgrapher 📷
+- Totally into Cottage Cheese and Desserts 🍚 🍩
+- Sometimes I sing, just to irritate my people 🧛
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to talk, I tweet by [apsychogirl_](https://twitter.com/apsychogirl_)
