@@ -9,4 +9,5 @@ I am Megha Kumari aka Apsychogirl. I code occasionally and write [blogs](https:/
 - Marvel Fan 🦸‍♂️ 🦸‍♀️
 - An okayissh photgrapher 📷
 
-If you want to talk, I tweet by [apsychogirl_](https://twitter.com/apsychogirl_)
+I tweet by [apsychogirl_](https://twitter.com/apsychogirl_)
+Cheers!
