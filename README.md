@@ -23,10 +23,10 @@
 - 👯 <b>Looking to collaborate on</b>: Computer Vision, NLP, Optimization problem
 - ⚡ <b>Fun fact</b>: I enjoy stress
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fkhjoy&show_icons=true" alt="fkhjoy" /> </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fkhjoy" alt="fkhjoy" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apsychogirl&show_icons=true" alt="apsychogirl" /> </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=apsychogirl" alt="apsychogirl" /> </p>
 <!--
-**fkhjoy/fkhjoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**apsychogirl/apsychogirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - 🤔 I’m looking for help with ...
