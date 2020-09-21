@@ -19,9 +19,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 ---
-- 🔭 <b>Working with</b>: Java, Python
-- 🌱 <b>Learning more about</b>: Data Structures & Algorithms, Tensorflow, Computer Vision and NLP
-- 👯 <b>Looking to collaborate on</b>: Computer Vision, NLP, Optimization problem
+- 🔭 <b>Working with</b>: Java, Python, Bash
+- 🌱 <b>Learning more about</b>: Automation, Bug Hunting, Linux
 - ⚡ <b>Fun fact</b>: Marvel Fan
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apsychogirl&show_icons=true" alt="apsychogirl" /> </h1>
