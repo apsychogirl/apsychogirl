@@ -7,23 +7,28 @@
 
 ### Technical Skills
 #### Language:
-
+<p>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-
+</p>
 
 #### Tools:
+<p>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-
+<p>
 ---
+<p> 
 - 🔭 <b>Working with</b>: Java, Python, Bash
 - 🌱 <b>Learning more about</b>: Automation, Bug Hunting, Linux
 - ⚡ <b>Fun fact</b>: Marvel Fan
-[![Megha's github stats](https://github-readme-stats.vercel.app/api?username=apsychogirl&show_icons=true&theme=radical)](https://github.com/apsychogirl/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apsychogirl&layout=compact&theme=radical&hide=css)](https://github.com/apsychogirl/github-readme-stats)
+  </p>
+
+<p align="center"> [![Mansi's github stats](https://github-readme-stats.vercel.app/api?username=pyprogr&show_icons=true&theme=radical)](https://github.com/pyprogr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyprogr&layout=compact&theme=radical&hide=css)](https://github.com/pyprogr/github-readme-stats)
+ </p>
 <!--
 **apsychogirl/apsychogirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: ...
