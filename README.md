@@ -3,7 +3,7 @@
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:meghajais.mj@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Reaching%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/apsychogirl/)
-[![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=37474f&logo=medium&logoColor=4fc3f7)](https://medium.com/@apsychogirl)
+[![Medium](https://img.shields.io/badge/%20-Medium-black?color=14171A&labelColor=ffffff&logo=medium&logoColor=212121)](https://medium.com/@apsychogirl)
 
 ### Technical Skills
 #### Language:
