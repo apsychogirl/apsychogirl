@@ -22,9 +22,8 @@
 - 🔭 <b>Working with</b>: Java, Python, Bash
 - 🌱 <b>Learning more about</b>: Automation, Bug Hunting, Linux
 - ⚡ <b>Fun fact</b>: Marvel Fan
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=apsychogirl&show_icons=true" alt="apsychogirl" /> </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=apsychogirl" alt="apsychogirl" /> </p>
+[![Megha's github stats](https://github-readme-stats.vercel.app/api?username=apsychogirl&show_icons=true&theme=radical)](https://github.com/apsychogirl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apsychogirl&layout=compact&theme=radical&hide=css)](https://github.com/apsychogirl/github-readme-stats)
 <!--
 **apsychogirl/apsychogirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 📫 How to reach me: ...
